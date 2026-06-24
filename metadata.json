@@ -1,0 +1,6 @@
+{
+  "name": "Smart Civic Learning System",
+  "description": "An Andhra Pradesh CSP project for Mangalapalem Sachivalayam, Ward No. 88, Visakhapatnam to promote digital civic education and responsible citizenship.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
